@@ -1,0 +1,8 @@
+{
+  "name": "KMail",
+  "description": "A modern, private email client application enhanced with AI-powered smart replies. Manage your messages and contacts with ease in a sleek, responsive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
